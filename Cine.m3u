@@ -8,81 +8,81 @@ plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX
 
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59889.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59889&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858.ts 
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos HD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59887.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59887&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción 
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59885.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59885&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59884.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59884&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59883.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59883&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59881.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59881&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59880.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59880&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59879.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59879&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59877.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59877&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59871.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59871&amp;streamtype=TSDOWNLOADER&amp;name=M.Cine Doc&Roll
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59870.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59870&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59869.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59869&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59935.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59935&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png", Movistar Cine Ñ
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59873.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59873&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59867.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59867&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59866.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59866&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59865.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59865&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", TCM
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59863.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59863&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59862.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59862&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59861.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59861&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59859.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59859&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59857.ts
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59857&amp;streamtype=TSDOWNLOADER&amp;name=*

@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Sdseries
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37025.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series HD (720p)

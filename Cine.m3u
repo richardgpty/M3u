@@ -1,88 +1,88 @@
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" #0
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59893.ts
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0 HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59892.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" #0 FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59891.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Estrenos
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59889.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Estrenos HD (720p)
-http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59888.ts
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos HD (720p)
+http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858.ts 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Estrenos HD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos HD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59887.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Acción 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción 
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59885.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Acción HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59884.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" Movistar Acción FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Acción FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59883.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" Movistar Comedia
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59881.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" Movistar Comedia HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59880.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" Movistar Comedia FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59879.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" Movistar Drama
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59877.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" Movistar Drama HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" Movistar Drama FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59876.ts
 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" Movistar Cine Doc&Roll
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59871.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" Movistar Cine Doc&Roll HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59870.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png" Movistar Cine Doc&Roll FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59869.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png" Movistar Disney
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59935.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" Movistar Cine Ñ
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png", Movistar Cine Ñ
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59873.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" Hollywood
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59867.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" Hollywood HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59866.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" Hollywood FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59865.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" TCM
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", TCM
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59863.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" TCM HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59862.ts
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png" TCM FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59861.ts
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" Sundance
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59859.ts
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" Sundance HD (720p)
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858.ts
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png" Sundance FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59857.ts

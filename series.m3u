@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Sderies
-plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37025&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Sdseries
+plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37025.ts&amp;streamtype=TSDOWNLOADER
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59832&amp;streamtype=TSDOWNLOADER&amp;name=*

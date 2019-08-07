@@ -1,10 +1,10 @@
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 test
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59893&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59893&amp;streamtype=TSDOWNLOADER&amp;name=#0
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0 HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59892&amp;streamtype=TSDOWNLOADER
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59892&amp;streamtype=TSDOWNLOADER&amp;name=#0
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59891&amp;streamtype=TSDOWNLOADER
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 FHD  rt(1080p)
+plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59891&amp;streamtype=TSDOWNLOADER&amp;name=#0
 
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos

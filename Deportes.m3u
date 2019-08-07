@@ -1,11 +1,11 @@
 
 #EXTINF:-1 tvg-logo="https://www.sat-address.com/f/pics/Stations/Movistar-Multideporte-1_o.jpg" ,Multideporte
 plugin://plugin.video.f4mTester/?url=http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50285&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no" #VAMOS
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no", #VAMOS
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72109&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no" #VAMOS HD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no", #VAMOS HD
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72108&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no" #VAMOS FHD
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/a-/AAuE7mC_NQNYBqk6jwvGJ1yWj-jtVYPKM16ESYyMYg=s900-mo-c-c0xffffffff-rj-k-no", #VAMOS FHD
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72107&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/87433&amp;streamtype=TSDOWNLOADER&amp;name=*
@@ -13,75 +13,75 @@ plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/87434&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240" DAZN FHD
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/87435&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" Movistar Liga de Campeones
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37187&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" Movistar Liga de Campeones HD
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones HD
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72072.&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" Movistar Liga de Campeones FHD
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones FHD
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72071&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" Movistar Liga de Campeones 1
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png", Movistar Liga de Campeones 1
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71877&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" Movistar Liga de Campeones 2
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png", Movistar Liga de Campeones 2
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71879&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37203&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes HD (720p)
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37202&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72057&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes 1
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes 1
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71898&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes 1 FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes 1 FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71899&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes 2
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes 2
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71900&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" Movistar Deportes 3
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png", Movistar Deportes 3
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/71901&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" Movistar Golf
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png", Movistar Golf
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37161&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" Movistar Golf HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png", Movistar Golf HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72030&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" Movistar Golf FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png", Movistar Golf FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72028&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" Real Madrid TV
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/REALM.png", Real Madrid TV
 plugin://plugin.video.f4mTester/?url=http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50211&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" Movistar Formula 1
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", Movistar Formula 1
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37170&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" Movistar Formula 1 HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", Movistar Formula 1 HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72034&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" Movistar Formula 1 FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png", Movistar Formula 1 FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72033&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" Teledeporte
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png", Teledeporte
 plugin://plugin.video.f4mTester/?url=http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65906&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" Teledeporte FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png", Teledeporte FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72020&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" Eurosport 1
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", Eurosport 1
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72041&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" Eurosport 1 HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", Eurosport 1 HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/HmQpDG4kQ/DCLTaf4uM4/72040&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" Eurosport 1 FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP.png", Eurosport 1 FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72039&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" Eurosport 2
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png", Eurosport 2
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72037&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png" BEIN LA LIGA 
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png", BEIN LA LIGA 
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37190&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png" BEIN LA LIGA HD (720p)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png", BEIN LA LIGA HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72086&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png" BEIN LA LIGA FHD (1080p)
+#EXTINF:-1 tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BELIGA.png", BEIN LA LIGA FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72086&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://atencionalcliente.es/wp-content/uploads/2016/10/telefono-gol-tv-atencion-al-cliente-268x190.jpg" GOL TV
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72023&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png" LA LIGA TV
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png", LA LIGA TV
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37183&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png" LA LIGA TV HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png", LA LIGA TV HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72100&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png" LA LIGA TV FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEOCOL/ficha/LIGBAR.png", LA LIGA TV FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72100&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png" LA LIGA 123
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png", LA LIGA 123
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37179&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png" LA LIGA 123 HD (720p)
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png", LA LIGA 123 HD (720p)
 plugin://plugin.video.f4mTester/?url=http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37178&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png" LA LIGA 123 (1080p)
+#EXTINF:-1 tvg-logo="https://gartel.es/canales/laliga123.png", LA LIGA 123 (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72093&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  

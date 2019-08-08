@@ -1,109 +1,107 @@
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107579161663758336/3FnavV2h.png",Portada
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107579161663758336/3FnavV2h.png",[COLOR red][B]Portada[/B][/COLOR]
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50273&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",[COLOR red][B]#0[/B][/COLOR]
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/15512&amp;streamtype=TSDOWNLOADER&amp;name=#0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", [COLOR red][B]#0[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59892&amp;streamtype=TSDOWNLOADER&amp;name=#0
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 FHD  (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",[COLOR red][B]#0 FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/15023&amp;streamtype=TSDOWNLOADER&amp;name=#0
 
 
-#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",Movistar Estrenos
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png",[COLOR red][B]Movistar Estrenos[/B][/COLOR]
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37041&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", [COLOR red][B]Movistar Estrenos HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59888&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", Movistar Estrenos FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV1.png", [COLOR red][B]Movistar Estrenos FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/14972&amp;streamtype=TSDOWNLOADER&amp;name=M.Estrenos
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", Movistar Acción 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", [COLOR red][B]Movistar Acción[/B][/COLOR] 
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/227&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",  Movistar Acción HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png",  [COLOR red][B]Movistar Acción HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59884&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", Movistar Acción FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png", [COLOR red][B]Movistar Acción FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/14977&amp;streamtype=TSDOWNLOADER&amp;name=M.Acción
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",  Movistar Comedia
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",  [COLOR red][B]Movistar Comedia[/B][/COLOR] 
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/228&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png", Movistar Comedia HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",[COLOR red][B]Movistar Comedia HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59880&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",Movistar Comedia FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png",[COLOR red][B]Movistar Comedia fHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/14975&amp;streamtype=TSDOWNLOADER&amp;name=M.Comedia
 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",Movistar Drama
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",[COLOR red][B]Movistar Drama[/B][/COLOR]
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/229&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",Movistar Drama HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png",[COLOR red][B]Movistar Drama HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59876&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", Movistar Drama FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png", [COLOR red][B]Movistar Drama FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/14974&amp;streamtype=TSDOWNLOADER&amp;name=M.Drama
 
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png",Movistar Cine Doc&Roll
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png",[COLOR red][B]Movistar CineDoc&Roll[/B][/COLOR] 
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/238&amp;streamtype=TSDOWNLOADER&amp;name=M.Cine Doc&Roll
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png",Movistar Cine Doc&Roll HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png",[COLOR red][B]Movistar CineDoc&Roll HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59870&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", Movistar Cine Doc&Roll FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPXTRA.png", [COLOR red][B]Movistar CineDoc&Roll FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/14968&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", [COLOR red][B]Movistar Disney[/B][/COLOR]
 http://auth.dmtn.tv:8080/6R7hntyRR/12E98dlqxY/108382&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney FHD (1080p)
-http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59935&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png", Movistar Cine Ñ
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png", [COLOR red][B]Movistar Cine Ñ[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59873&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", [COLOR red][B]Hollywood[/B][/COLOR]
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/207&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",Hollywood HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png",[COLOR red][B]Hollywood HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59866&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", Hollywood FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", [COLOR red][B]Hollywood FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/15028&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png", Calle 13
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png", [COLOR red][B]Calle 13[/B][/COLOR]
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/23122&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",Calle 13 HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png",[COLOR red][B]Calle 13 HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59824&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png", Calle 13 FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CL13.png", [COLOR red][B]Calle 13 FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://212.8.243.218:25461/claire/claire/15012&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,TCM
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" ,[COLOR red][B]TCM[/B][/COLOR]
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/23140&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", TCM HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", [COLOR red][B]TCM HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59862&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", TCM FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TCM.png", [COLOR red][B]TCM FHD[/B][/COLOR] [COLOR cyan][B](1080p)[/B][/COLOR]
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/147&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", [COLOR red][B]Sundance[/B][/COLOR] 
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59859&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance HD (720p)
+#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", [COLOR red][B]Sundance HD[/B][/COLOR] [COLOR cyan][B](720p)[/B][/COLOR]
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/9716&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png",Sundance FHD (1080p)
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/145&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/790586217452736512/6hwKbhz1_400x400.jpg" ,DARK
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/790586217452736512/6hwKbhz1_400x400.jpg" ,[COLOR red][B]DARK[/B][/COLOR]
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59856&amp;streamtype=TSDOWNLOADER&amp;name=*

@@ -1,9 +1,9 @@
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107579161663758336/3FnavV2h.png",[COLOR red]Pofrtada[/COLOR]
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1107579161663758336/3FnavV2h.png",Portada
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50273&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0 
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59893&amp;streamtype=TSDOWNLOADER&amp;name=#0
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0 HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59892&amp;streamtype=TSDOWNLOADER&amp;name=#0
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 FHD  (1080p)

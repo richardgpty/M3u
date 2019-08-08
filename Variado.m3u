@@ -1,100 +1,100 @@
 
 
-#EXTINF:-1 ,National Geographic
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png",National Geographic
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59957&amp;streamtype=TSDOWNLOADER&amp;name=*
  
-#EXTINF:-1 , National Geographic HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png", National Geographic HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59956&amp;streamtype=TSDOWNLOADER&amp;name=*
  
- #EXTINF:-1 ,National Geographic FHD (1080p)
+ #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png",National Geographic FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59955&amp;streamtype=TSDOWNLOADER&amp;name=*
  
- #EXTINF:-1 ,Nat Geo Wild
+ #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png",Nat Geo Wild
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59953&amp;streamtype=TSDOWNLOADER&amp;name=*
 
- #EXTINF:-1, Nat Geo Wild HD (720p)
+ #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png", Nat Geo Wild HD (720p)
  http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59952&amp;streamtype=TSDOWNLOADER&amp;name=*
 
- #EXTINF:-1 ,Nat Geo Wild FHD (1080p)
+ #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png",Nat Geo Wild FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59951&amp;streamtype=TSDOWNLOADER&amp;name=*
  
-  #EXTINF:-1 ,Historia
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65934&amp;streamtype=TSDOWNLOADER&amp;name=*
  
-  #EXTINF:-1 ,Historia FHD (1080p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59963&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 ,Discovery
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCR.png",Discovery
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65935&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1,Blaze
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/BIOGRA.png",Blaze
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59945&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 ,Crimen & Investigacion
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CYM.png",Crimen & Investigacion
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50343&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 ,Caza y Pesca
+  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783240082652295168/O36EzfSM_400x400.jpg",Caza y Pesca
 http://servicioiptv.com:8000/david1991pontaeri@gmail.com/9oRuTmmzey/192&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1,Caza y Pesca HD (720p)
+  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783240082652295168/O36EzfSM_400x400.jpg",Caza y Pesca HD (720p)
 http://ecuaplaytv.com:8000/HmQpDG4kQ/DCLTaf4uM4/59939&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1,Caza y Pesca FHD (1080p)
+  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783240082652295168/O36EzfSM_400x400.jpg",Caza y Pesca FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59938&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1, Iberalia
+  #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/783240082652295168/O36EzfSM_400x400.jpg", Iberalia
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50322&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 ,Toros TV
+  #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/torostv.jpg",Toros TV
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72017&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1, Toros TV HD (720p)
+  #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/torostv.jpg", Toros TV HD (720p)
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50322&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1,Toros TV FHD (1080p)
+  #EXTINF:-1 tvg-logo="https://cdn.sincroguia.tv/uploads/images/t/o/r/torostv.jpg",Toros TV FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37162&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1 ,Odisea
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png",Odisea
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65936&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 , DeCasa
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png", DeCasa
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72308&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 , DeCasa HD (720p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png", DeCasa HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72307&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 , DeCasa FHD (1080p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png", DeCasa FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72306&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1, Canal Cocina
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65967&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1 , Canal Cocina HD (720p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72303&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1, Canal Cocina FHD (1080p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina FHD (1080p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72302&amp;streamtype=TSDOWNLOADER&amp;name=* 
 
-  #EXTINF:-1, Viajar
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VJR.png", Viajar
 ttp://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59944&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 , Viajar HD (720p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VJR.png", Viajar HD (720p)
 http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59943&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1 , Viajar FHD (1080p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VJR.png", Viajar FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/36995&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-  #EXTINF:-1, COSMO
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png", COSMO
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65964&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-  #EXTINF:-1, COSMO HD (720p)
+  #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png", COSMO HD (720p)
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50345&amp;streamtype=TSDOWNLOADER&amp;name=*
 

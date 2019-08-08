@@ -1,12 +1,12 @@
 #EXTM3U @LaQuay https://github.com/LaQuay/TDTChannels
 #EXTM3U url-tvg="https://raw.githubusercontent.com/HelmerLuzo/TDTChannels_EPG/master/TDTChannels_EPG.xml"
-#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@584096/master.m3u8
-#EXTINF:-1 tvg-id="La1.TDTChannelsEPG" tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_400x400.jpg" group-title="Generalistas",La 1 HD
 http://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/master.m3u8
-#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+#EXTINF:-1  tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
 http://hlsliveamdgl1-lh.akamaihd.net/i/hlsdvrlive_1@60414/master.m3u8
-#EXTINF:-1 tvg-id="La2.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
+#EXTINF:-1 tvg-logo="http://graph.facebook.com/la2detve/picture?width=320&height=320" group-title="Generalistas",La 2 HD
 http://hlsliveamdgl0-lh.akamaihd.net/i/hlsdvrlive_1@60531/master.m3u8
 #EXTINF:-1 tvg-id="Antena3.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/antena3/picture?width=320&height=320" group-title="Generalistas",Antena 3 HD
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
@@ -620,7 +620,7 @@ https://streaming-02.mivitec.net/live/smil:test.smil/playlist.m3u8
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="http://graph.facebook.com/rainews.it/picture?width=320&height=320" group-title="Internacional",Rai News 24
 https://rainews1-live.akamaized.net/hls/live/598326/rainews1/rainews_1800/chunklist.m3u8
-#EXTINF:-1 tvg-id="ATVHD.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Andorra",ATV HD
+#EXTINF:-1  tvg-logo="http://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Andorra",ATV HD
 http://videos.rtva.ad:1935/live/rtva/playlist.m3u8
-#EXTINF:-1 tvg-id="ATVCW.TDTChannelsEPG" tvg-logo="http://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Andorra",ATV Web HD
+#EXTINF:-1 " tvg-logo="http://graph.facebook.com/rtva.andorra/picture?width=320&height=320" group-title="Andorra",ATV Web HD
 http://videos.rtva.ad:1935/live/web/playlist.m3u8

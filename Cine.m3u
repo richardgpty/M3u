@@ -58,6 +58,9 @@ http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59870&amp;streamtype=TSDOWNLOADE
 http://212.8.243.218:25461/claire/claire/14968&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney
+http://auth.dmtn.tv:8080/6R7hntyRR/12E98dlqxY/108382&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MDISNE.png", Movistar Disney FHD (1080p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59935&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png", Movistar Cine Ñ

@@ -1,43 +1,43 @@
 #EXTM3U
 
-#EXTINF:-1 ,Movistar Series
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37025.ts&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 ,Movistar Series HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59832&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 ,Movistar Series FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png",Movistar Series FHD (1080p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59831&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , Movistar Seriesmanía
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV2.png", Movistar Seriesmanía
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37022&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , Movistar Seriesmanía HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV2.png", Movistar Seriesmanía HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59828&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , Movistar Seriesmanía FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV2.png", Movistar Seriesmanía FHD (1080p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59827&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1 , AMC
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AMC.png", AMC
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59805&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1  ,AMC HD (720p)
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AMC.png",AMC HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59804&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , AMC FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AMC.png", AMC FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37079&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1  ,FOX
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png",FOX
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59821&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1, FOX HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png", FOX HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59820&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1 , FOX FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png", FOX FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37076&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
@@ -53,57 +53,57 @@ http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59816&amp;streamtype=TSDOWNLOADE
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37074&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , AXN
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AXN.png", AXN
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59813&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , AXN HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AXN.png", AXN HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59812&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , AXN FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/AXN.png", AXN FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37084&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , AXN WHITE
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SET.png", AXN WHITE
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59809&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , AXN WHITE HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SET.png", AXN WHITE HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59808&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , AXN WHITE FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SET.png", AXN WHITE FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37082&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , COMEDY CENTRAL
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/PCM.png", COMEDY CENTRAL
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59791&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , COMEDY CENTRAL HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/PCM.png", COMEDY CENTRAL HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59790&amp;streamtype=TSDOWNLOADER&amp;name=* 
 
 
 
-#EXTINF:-1 , COMEDY CENTRAL FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/PCM.png", COMEDY CENTRAL FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37062&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1  ,TNT
+#EXTINF:-1  tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TNT.png",TNT
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59802&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , TNT HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TNT.png", TNT HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59800&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 , TNT FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/TNT.png", TNT FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37072&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , SYFY
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png", SYFY
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59798&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , SYFY HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png", SYFY HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59797&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
-#EXTINF:-1 , SYFY FHD (1080p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png", SYFY FHD (1080p)
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37066.ts

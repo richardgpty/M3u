@@ -41,11 +41,11 @@ http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59820&amp;streamtype=TSDOWNLOADE
 http://iptvtool.es:9977/Gustabo._Zener/qqy2icQjp4/37076&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1 , FOX LIFE
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/FOXCR.png", FOX LIFE
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59817&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  
-#EXTINF:-1 , FOX LIFE HD (720p)
+#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/FOXCR.png", FOX LIFE HD (720p)
 http://ecuaplaytv.com:8000/ng53kyECc/qQmfYsajYZ/59816&amp;streamtype=TSDOWNLOADER&amp;name=*
 
  

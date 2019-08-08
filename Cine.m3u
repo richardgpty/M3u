@@ -1,3 +1,7 @@
+#EXTINF:-1,La 1 HD
+http://nettv-xcruiser.com:8000/NaKw0fnbE6/dZnLGXdNlK/65974
+
+
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png", #0 test
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59893&amp;streamtype=TSDOWNLOADER&amp;name=#0
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/MV3.png",#0 HD (720p)
@@ -75,14 +79,14 @@ plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM HD (720p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59862&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HOLLYW.png", TCM FHD (1080p)
+#EXTINF:-1, TCM FHD (1080p)
 plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59861&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59859&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1, Sundance
+http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59859
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance HD (720p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1, Sundance HD (720p)
+http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59858&amp;streamtype=TSDOWNLOADER&amp;name=*
 
-#EXTINF:-1 tvg-logo="http://www.sundancetv.es/wp-content/themes/amcn-sundance-global/assets/images/sundance_placeholder_16x9.png", Sundance FHD (1080p)
-plugin://plugin.video.f4mTester/?url=http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59857&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1,Sundance FHD (1080p)
+http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59857

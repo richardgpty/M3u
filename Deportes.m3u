@@ -27,6 +27,13 @@ http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/14077&amp;stream
 http://ecuaplaytv.com:8000/FD7gkWeaU/M7Tz6YBzhyZ/72072.&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1", Movistar LaLiga FHD (proximamente)
 &amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfoxPe6.png", Movistar LaLiga 123(proximamente)
+http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/14077&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfoxPe6.png", Movistar LaLiga 123 HD (proximamente)
+http://ecuaplaytv.com:8000/FD7gkWeaU/M7Tz6YBzhyZ/72072.&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DfoxPe6.png", Movistar LaLiga 123 FHD (proximamente)
+&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones
 http://mles.us:1925/bassamMyhd/Myhdbassam/9477&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png", Movistar Liga de Campeones HD

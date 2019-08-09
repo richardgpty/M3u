@@ -137,8 +137,29 @@ http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58160&amp;streamtype=TSDOWNLOADE
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58159&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-id="" tvg-name="Alemania |  sky sport austria" tvg-logo="" group-title="DEPORTES ALEMANIA",Alemania |  sky sport austria
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58158&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-id="" tvg-name="Alemania |  Sky Sport News HD" tvg-logo="" group-title="DEPORTES ALEMANIA",Alemania |  Sky Sport News HD
-http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58157&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-id="" tvg-name="----------------------------SKY SPORTS-----------------------------" tvg-logo="" group-title="DEPORTES ALEMANIA",----------------------------DAZN ITALIA------------------------------
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Arena FullHD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Arena FullHD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67200&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | SKY SPORTS F1" tvg-logo="" group-title="REINO UNIDO",Reino Unido | SKY SPORTS F1
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67181&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Football" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Football
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67198&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | SKY SPORTS GOLF FullHD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | SKY SPORTS GOLF FullHD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67197&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Main Event FullHD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Main Event FullHD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67196&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Mix FullHD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Mix FullHD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67195&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Mix HD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Mix HD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67194&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Reino Unido | Sky Sports Premier League FullHD" tvg-logo="" group-title="REINO UNIDO",Reino Unido | Sky Sports Premier League FullHD
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67192&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="----------------------------DAZN ITALIA------------------------------" tvg-logo="" group-title="DEPORTES ALEMANIA",----------------------------DAZN ITALIA------------------------------
 
 #EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 1" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 1

@@ -1,4 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="DEPORTES ALEMANIA",----------------------------Movistar+------------------------------
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR+" tvg-logo="" group-title="DEPORTES ALEMANIA",----------------------------Movistar+------------------------------
 
 #EXTINF:-1  tvg-logo="https://www.sat-address.com/f/pics/Stations/Movistar-Multideporte-1_o.jpg",Multideporte
 http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/50285&amp;streamtype=TSDOWNLOADER&amp;name=*
@@ -139,5 +139,34 @@ http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58159&amp;streamtype=TSDOWNLOADE
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58158&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-id="" tvg-name="Alemania |  Sky Sport News HD" tvg-logo="" group-title="DEPORTES ALEMANIA",Alemania |  Sky Sport News HD
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/58157&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="----------------------------DAZN ITALIA------------------------------" tvg-logo="" group-title="DEPORTES ALEMANIA",----------------------------DAZN ITALIA------------------------------
 
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 1" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 1
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50235&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 10" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 10
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50234&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 11" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 11
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50233&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 12" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 12
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50232&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 13" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 13
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50231&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 14" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 14
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50230&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 2" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 2
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50229&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 3" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 3
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50228&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 4" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 4
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50227&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 5" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 5
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50226&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 6" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 6
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50225&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 7" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 7
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50224&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 8" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 8
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50223&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="Italia | Dazn Sport 9" tvg-logo="" group-title="ITALIA",Italia | Dazn Sport 9
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/50222&amp;streamtype=TSDOWNLOADER&amp;name=*
  

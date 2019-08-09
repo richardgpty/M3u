@@ -181,7 +181,21 @@ http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/43853&amp;streamtype=TSDOWNLOADE
 
 #EXTINF:-1 tvg-id="UFCTV.us" tvg-name="DEPORTES HD | UFC FIGHT PASS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/UFC_Fight_Pass_Logo.svg/1200px-UFC_Fight_Pass_Logo.svg.png" group-title="DEPORTES HDTV",DEPORTES HD | UFC FIGHT PASS
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/64480&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-id="" tvg-name="USA | UFC Live HD" tvg-logo="" group-title="ESTADOS UNIDOS DE AMERICA",USA | UFC Live HD
-http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/72713&amp;streamtype=TSDOWNLOADER&amp;name=*
+
 #EXTINF:-1 tvg-id="NFLNetwork.us" tvg-name="DEPORTES HD | NFL NETWORK" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/NFL_Network_logo.svg/1200px-NFL_Network_logo.svg.png" group-title="DEPORTES HDTV",DEPORTES HD | NFL NETWORK
 http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/64494&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | SUPER TENNIS" tvg-logo="" group-title="DEPORTES HDTV",SUPER TENNIS
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/71941&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES HD | TENNIS CHANNEL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Tennis_Channel_logo.svg/783px-Tennis_Channel_logo.svg.png" group-title="DEPORTES HDTV",TENNIS CHANNEL
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/64489&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* | FOX SPORTS ARGENTINA" tvg-logo="" group-title="DEPORTES",DEPORTES* | FOX SPORTS ARGENTINA
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67469&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* | FOX SPORTS 2 ARGENTINA" tvg-logo="" group-title="DEPORTES",DEPORTES* | FOX SPORTS 2 ARGENTINA
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67470&amp;streamtype=TSDOWNLOADER&amp;name=*
+
+#EXTINF:-1 tvg-id="" tvg-name="DEPORTES* | FOX SPORTS 3 ARGENTINA" tvg-logo="" group-title="DEPORTES",DEPORTES* | FOX SPORTS 3 ARGENTINA
+http://ecuaplaytv.com:8000/ZWEU4aHpW/caDjS0AHXE/67471&amp;streamtype=TSDOWNLOADER&amp;name=*
+

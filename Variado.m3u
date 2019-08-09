@@ -21,8 +21,10 @@ http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/143&amp;
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia
 http://212.8.243.218:25461/claire/claire/14961&amp;streamtype=TSDOWNLOADER&amp;name=*
  
+   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia HD (1080p)
+http://mles.us:1925/bassamMyhd/Myhdbassam/11791&amp;streamtype=TSDOWNLOADER&amp;name=*
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/HIST.png",Historia FHD (1080p)
-http://ecuaplaytv.com:8000/FD7gkWeaU/M7Tz6YBzhy/59963&amp;streamtype=TSDOWNLOADER&amp;name=*
+http://mles.us:1925/bassamMyhd/Myhdbassam/9974&amp;streamtype=TSDOWNLOADER&amp;name=*
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DCR.png",Discovery
 http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/240&amp;streamtype=TSDOWNLOADER&amp;name=*
@@ -69,21 +71,21 @@ http://nettv-xcruiser.com:8000/ESOUroROUf/QH6vvYXs1R/65936&amp;streamtype=TSDOWN
 http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/190&amp;streamtype=TSDOWNLOADER&amp;name=*
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png", DeCasa HD (720p)
-http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72307&amp;streamtype=TSDOWNLOADER&amp;name=*
+http://mles.us:1925/bassamMyhd/Myhdbassam/11779&amp;streamtype=TSDOWNLOADER&amp;name=*
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/DECASA.png", DeCasa FHD (1080p)
-http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72306&amp;streamtype=TSDOWNLOADER&amp;name=*
+http://mles.us:1925/bassamMyhd/Myhdbassam/11778&amp;streamtype=TSDOWNLOADER&amp;name=*
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina
 http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/9726&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina HD (720p)
-http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72303&amp;streamtype=TSDOWNLOADER&amp;name=*
+http://mles.us:1925/bassamMyhd/Myhdbassam/11756&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/CACOC.png", Canal Cocina FHD (1080p)
-http://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/72302&amp;streamtype=TSDOWNLOADER&amp;name=* 
+http://mles.us:1925/bassamMyhd/Myhdbassam/9976&amp;streamtype=TSDOWNLOADER&amp;name=* 
 
   #EXTINF:-1 tvg-logo="http://www.movistarplus.es/recorte/m-NEO/canal/VJR.png", Viajar
 ttp://ecuaplaytv.com:8000/sG6WsVg77/JxJfdX58gb/59944&amp;streamtype=TSDOWNLOADER&amp;name=*

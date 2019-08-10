@@ -16,11 +16,15 @@ http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/15516&am
 http://servicioiptv.com:8000/danifernandezcora45@hotmail.com/eGccvaAf5j/15515&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN FHD (Solo en eventos)
 http://mles.us:1925/bassamMyhd/Myhdbassam/9596&amp;streamtype=TSDOWNLOADER&amp;name=*
-#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN HD Opción 1(Solo en eventos)
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN FHD Opción 1 (Solo en eventos)
 http://mles.us:1925/bassamMyhd/Myhdbassam/26527&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN FHD Opción 2 (Solo en eventos)
+http://setv.ma:1925/vc0051/5fAGGJ4g8B/26527&amp;streamtype=TSDOWNLOADER&amp;name=*
 
 #EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN FHD Opción 1 (Solo en eventos)
 http://mles.us:1925/bassamMyhd/Myhdbassam/26527&amp;streamtype=TSDOWNLOADER&amp;name=*
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/3/5/3/35389c9c161c736989b9870caaf98872_icon.png?w=240", DAZN FHD Opción 2 (Solo en eventos)
+http://setv.ma:1925/vc0051/5fAGGJ4g8B/9596&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1", Movistar LaLiga (proximamente)
 http://siptv-online.com:8789/Manuel_dos_santos_sarra/Tw3SPXXkji/14077&amp;streamtype=TSDOWNLOADER&amp;name=*
 #EXTINF:-1 tvg-logo="https://i0.wp.com/jungle-team.com/wp-content/uploads/2019/07/Picon-movistar-LaLiga.png?fit=440%2C264&ssl=1", Movistar LaLiga HD (proximamente)
